@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     entry_points={
         'console_scripts': [
-            'release-demo=main:say_hello',
+            'release-demo=main:say_hello dolly',
         ],
     },
 )
