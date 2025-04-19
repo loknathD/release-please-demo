@@ -1,2 +1,2 @@
-python relese demooo
+python relese demoo
 # release-please-demo
